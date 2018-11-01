@@ -1,15 +1,9 @@
 ### References
 
-Picture of Stream is from Flicker with Creative Commons ShareAlike license: https://goo.gl/P1JBSY
+ <a href="https://www.flickr.com/creativecommons/">Pictures of Stream and Pipeline from Flicker with Creative Commons license. </a>
 
-Four Golden Signals: https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/
-
-
-
-### References
-
-Jackie Stewart Mechanical Sympathy quotation is from Martin Thompson and can be found here:
-https://skillsmatter.com/meetups/1879-mechanical-sympathy
+<a href= "https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/">Four Golden Signals </a>
 
 
-##THE END
+
+### THE END
