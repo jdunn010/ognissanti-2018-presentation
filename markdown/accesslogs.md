@@ -3,6 +3,12 @@
 > There is no additional charge for access logs. You are charged storage costs for Amazon S3, but not charged for the bandwidth used by Elastic Load Balancing to send log files to Amazon S3. 
 
 
+### ALB Access Log Description
+
+<a href= 
+"https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html">ALB Access Logs<a>
+
+
 ### Access Log Entry
 
 | | |
